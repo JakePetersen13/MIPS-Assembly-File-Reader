@@ -1,6 +1,6 @@
-
-# cpp.cos.cs.2640.tvnguyen7
-#  fileio.s - file i/o library
+#--------------------------------------------------------
+# CREDIT TO PROFESSOR THANH NGYUEN OF CAL POLY POMONA
+#--------------------------------------------------------
 
 # void fgetln (int fd, cstring buf) - get a line of text from a file into buf, full path
 #	*no* buffer overflow check
