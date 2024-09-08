@@ -1,14 +1,11 @@
 #---------------------------------------------------------------------------------------------------------
 # Name: Petersen, Jake
-# Project: 4
-# Due: 4/26/24
-# Course: cs-2640-02-sp24
 # Description:
 # A linked list read from element data file 
 #---------------------------------------------------------------------------------------------------------
 			.data
-intro:		.asciiz	"Elements by J. Petersen v0.1\n\n"
-ptfname:	.asciiz	"C:\Users\jakep\Downloads\enames.dat"
+intro:		.asciiz	"Elements by J. Petersen v0.1\n\n" 
+ptfname:	.asciiz	"C:\Users\jakep\Downloads\enames.dat" # directory of file to be read
 elements:	.asciiz " elements\n"
 
 head: 		.word 	0
